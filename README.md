@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Deepak
 
-<!--
-**deepakj98/deepakj98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ruby on Rails Developer
+🚀 Passionate about building scalable backend systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* Ruby on Rails
+* PostgreSQL
+* MySql
+* Redis
+* React.js
+* Next.js
+* Git & Docker
+
+---
+
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/deepak-jha-7a53b6228/
+* Email: jhadeepak746@gmail.com
