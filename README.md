@@ -18,7 +18,7 @@
 ### 🌐 APIs & Integrations
 - RESTful API Design & Development  
 - Third-party integrations: Meta (WhatsApp/Instagram), Twilio, Stripe, OpenAI  
-- Payment gateways: Stripe, NMI  
+- Payment gateways: Stripe, NMI, Razorpay  
 - Webhooks & External API integrations  
 
 ---
@@ -27,7 +27,8 @@
 - PostgreSQL, MySQL, Supabase  
 - Query Optimization & Performance Tuning  
 - Indexing & Efficient Data Retrieval  
-- Handling N+1 Queries (Eager Loading)  
+- Handling N+1 Queries (Eager Loading)
+- Caching (Redis, Fragment Caching)
 
 ---
 
